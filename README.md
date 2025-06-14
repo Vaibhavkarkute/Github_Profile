@@ -1,40 +1,38 @@
 <table>
   <tr>
     <td width="70%" valign="top">
-      <h1 align="left" style="margin-bottom: 5px;">🌌 Vaibhav Karkute | DevOps Engineer @ TCS 🚀</h1>
-      <p style="margin: 0;">
-        👋 I’m <b>Vaibhav Karkute</b>, a passionate <b>DevOps Engineer</b> at <b>Tata Consultancy Services (TCS)</b> with expertise in automating cloud infrastructure, building robust CI/CD pipelines, and managing scalable data platforms.<br><br>
-        
-        🔧 <b>Key Skills:</b> <br>
-        – DevOps Tools: <b>Docker</b>, <b>Kubernetes</b>, <b>Jenkins</b>, <b>Git</b>, <b>Terraform</b>, <b>Ansible</b><br>
-        – Cloud Platforms: <b>AWS</b>, <b>Azure</b><br>
-        – Monitoring: <b>Prometheus</b>, <b>Grafana</b>, <b>Dynatrace</b><br>
-        – CI/CD: <b>GitHub Actions</b>, <b>Jenkins</b>, <b>ArgoCD</b><br>
-        – Data Engineering: <b>Informatica</b>, <b>Tableau</b>, <b>Airflow</b>, <b>Kafka</b><br>
-        – Automation & Scripting: <b>Python</b>, <b>Bash</b><br>
-        – Reporting: <b>Power BI</b>, <b>Excel</b><br><br>
 
-        🚀 I’m constantly exploring open-source tech, cloud-native patterns, distributed systems, and AI tools to build resilient and scalable software systems.
-      </p>
-      <p align="center" style="margin-top: 5px;">
-        <a href="https://github.com/Vaibhavkarkute">
-          <img src="https://komarev.com/ghpvc/?username=Vaibhavkarkute&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-        </a>
-        <a href="https://github.com/Vaibhavkarkute?tab=followers">
-          <img src="https://img.shields.io/github/followers/Vaibhavkarkute?color=blue&label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
-        </a>
-      </p>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" 
-           height="200px" width="280px" 
-           alt="cool gif" 
-           style="border-radius: 10px;" />
-    </td>
+### 👋 Hi there! I'm **Vaibhav Karkute** – DevOps Engineer @TCS
+
+🔧 **Key Skills**  
+- **DevOps Tools**: Docker, Kubernetes, Jenkins, Git, Terraform, Ansible  
+- **Cloud Platforms**: AWS, Azure  
+- **Monitoring**: Prometheus, Grafana, Dynatrace  
+- **CI/CD**: GitHub Actions, Jenkins, ArgoCD  
+- **Data Engineering**: Informatica, Tableau, Airflow, Kafka  
+- **Automation & Scripting**: Python, Bash  
+- **Reporting**: Power BI, Excel  
+
+🚀 I’m constantly exploring open-source tech, cloud-native patterns, distributed systems, and AI tools to build resilient and scalable software systems.
+
+<p align="left">
+  <a href="https://github.com/Vaibhavkarkute">
+    <img src="https://komarev.com/ghpvc/?username=Vaibhavkarkute&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Vaibhavkarkute?tab=followers">
+    <img src="https://img.shields.io/github/followers/Vaibhavkarkute?color=blue&label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+</p>
+
+</td>
+<td width="30%" align="center">
+  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" 
+       height="200px" width="250px" 
+       alt="cool gif" />
+</td>
   </tr>
 </table>
 
----
 
 ## 🚀 Tech Stack
 
