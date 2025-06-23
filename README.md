@@ -108,5 +108,4 @@
 
 ### Watch my GitHub contribution snake 🐍
 
-![GitHub Snake Light](https://github.com/Vaibhavkarkute/Github_Profile/blob/output/github-snake.svg)
-![GitHub Snake Dark](https://github.com/Vaibhavkarkute/Github_Profile/blob/output/github-snake-dark.svg)
+![Contribution Snake](https://github.com/Vaibhavkarkute/Github_Profile/blob/output/github-contribution-grid-snake.svg)
