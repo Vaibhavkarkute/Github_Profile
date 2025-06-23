@@ -105,3 +105,8 @@
     <img src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" />
   </a>
 </p>
+
+### Watch my GitHub contribution snake 🐍
+
+![GitHub Snake Light](https://github.com/Vaibhavkarkute/Github_Profile/blob/output/github-snake.svg)
+![GitHub Snake Dark](https://github.com/Vaibhavkarkute/Github_Profile/blob/output/github-snake-dark.svg)
