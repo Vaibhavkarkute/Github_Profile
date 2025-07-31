@@ -107,5 +107,4 @@
 </p>
 
 ### Watch my GitHub contribution snake 🐍
-
-![Contribution Snake](https://github.com/Vaibhavkarkute/Github_Profile/snake.yml)
+![Contribution Snake](https://raw.githubusercontent.com/Vaibhavkarkute/Github_Profile/output/github-contribution-grid-snake.svg)
